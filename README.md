@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tayyab Anees</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">As a Final-year Software Engineering student with a strong foundation in programming and software development. Skilled in Java, Python, C#, Mern Stack and C++, and passionate about full-stack development, cloud computing, and AI. Eager to apply my knowledge to real-world projects and contribute to innovative solutions as I transition into the professional world.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=funkydude6103&label=Profile%20views&color=0e75b6&style=flat" alt="funkydude6103" /> </p>
 
