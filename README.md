@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tayyab Anees</h1>
 <h3 align="center"> 
-🌟 Final-year Software Engineering student passionate about Full-Stack Development, Cloud Computing, and AI. 
-<br> Skilled in Java, Python, C#, MERN Stack, and C++, and eager to bring innovative solutions to real-world challenges as I transition into the professional world.
+As a Final-year Software Engineering student with a strong foundation in programming and software development. Skilled in Java, Python, C#, Mern Stack and C++, and passionate about full-stack development, cloud computing, and AI. Eager to apply my knowledge to real-world projects and contribute to innovative solutions as I transition into the professional world..
 </h3>
 
 ---
