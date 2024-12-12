@@ -13,7 +13,7 @@
 ---
 
 ### 🏆 GitHub Achievements:
-<p align="center"> 
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=funkydude6103&theme=onedark&no-frame=true&row=1&column=6" alt="funkydude6103 trophies" />
   </a> 
