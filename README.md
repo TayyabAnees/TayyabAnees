@@ -14,7 +14,7 @@ As a Final-year Software Engineering student with a strong foundation in program
 ### 🏆 GitHub Achievements:
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=funkydude6103&theme=onedark&no-frame=true&row=1&column=6" alt="funkydude6103 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=TayyabAnees&theme=onedark&no-frame=true&row=1&column=6" alt="funkydude6103 trophies" />
   </a> 
 </p>
 
@@ -37,10 +37,10 @@ As a Final-year Software Engineering student with a strong foundation in program
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funkydude6103&layout=compact&theme=radical" alt="funkydude6103 Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabAnees&layout=compact&theme=radical" alt="funkydude6103 Top Languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=funkydude6103&show_icons=true&theme=radical" alt="funkydude6103 Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TayyabAnees&show_icons=true&theme=radical" alt="funkydude6103 Stats" />
 </p>
 
